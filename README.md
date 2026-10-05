@@ -4,7 +4,7 @@
 
 ## 🇬🇧 🇳🇬 English
 
-<img src="assets/app-icon.webp" alt="AntiStress Trade icon" width="120">
+<img src="app-icon.webp" alt="AntiStress Trade icon" width="120">
 
 **An Android application designed to make visually intense trading screens easier to manage.**
 
@@ -41,37 +41,7 @@ The screenshots show only a selection of the simplest features. Additional featu
 
 The trading interface in these screenshots belongs to **Binance**, not AntiStress Trade. AntiStress Trade provides the overlay shown on top. This is an independent project and is not presented as a Binance product or partnership. Prices shown are historical screenshot content.
 
-**Main application screen in English with a cherry blossom theme**
-
-<img src="screenshots/01-app-english.jpg" alt="Main application screen in English with a cherry blossom theme" width="280">
-
-**Overlay positioned on the left with color controls**
-
-<img src="screenshots/02-left-overlay.jpg" alt="Overlay positioned on the left with color controls" width="280">
-
-**Overlay positioned on the right with color controls**
-
-<img src="screenshots/03-right-overlay.jpg" alt="Overlay positioned on the right with color controls" width="280">
-
-**Trading screen before enabling the overlay**
-
-<img src="screenshots/04-before-overlay.jpg" alt="Trading screen before enabling the overlay" width="280">
-
-**Plain grey overlay covering part of the trading screen**
-
-<img src="screenshots/05-grey-overlay.jpg" alt="Plain grey overlay covering part of the trading screen" width="280">
-
-**Application controls with a beach theme**
-
-<img src="screenshots/06-beach-theme.jpg" alt="Application controls with a beach theme" width="280">
-
-**Application controls with a forest theme**
-
-<img src="screenshots/07-forest-theme.jpg" alt="Application controls with a forest theme" width="280">
-
-**Application controls with a cat theme**
-
-<img src="screenshots/08-cat-theme.jpg" alt="Application controls with a cat theme" width="280">
+<img src="antistress-carousel.gif" alt="AntiStress Trade screenshot carousel" width="720">
 
 ## Technical background
 
